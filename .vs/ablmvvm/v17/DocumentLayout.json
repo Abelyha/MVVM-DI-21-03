@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VISUAL 22\\ablmvvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|c:\\visual 22\\ablmvvm\\ablmvvm\\vistas\\vista1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|solutionrelative:ablmvvm\\vistas\\vista1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|c:\\visual 22\\ablmvvm\\ablmvvm\\vistamodelo\\vmvista1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|solutionrelative:ablmvvm\\vistamodelo\\vmvista1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|c:\\visual 22\\ablmvvm\\ablmvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|solutionrelative:ablmvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|c:\\visual 22\\ablmvvm\\ablmvvm\\vistas\\vista1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|solutionrelative:ablmvvm\\vistas\\vista1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|c:\\visual 22\\ablmvvm\\ablmvvm\\vistamodelo\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|solutionrelative:ablmvvm\\vistamodelo\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|c:\\visual 22\\ablmvvm\\ablmvvm\\vistamodelo\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E5B556-67DC-49AC-A59A-26EE1C5DB26D}|ablmvvm\\ablmvvm.csproj|solutionrelative:ablmvvm\\vistamodelo\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VMvista1.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\VistaModelo\\VMvista1.cs",
+              "RelativeDocumentMoniker": "ablmvvm\\VistaModelo\\VMvista1.cs",
+              "ToolTip": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\VistaModelo\\VMvista1.cs",
+              "RelativeToolTip": "ablmvvm\\VistaModelo\\VMvista1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:00:37.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vista1.xaml",
+              "DocumentMoniker": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\Vistas\\vista1.xaml",
+              "RelativeDocumentMoniker": "ablmvvm\\Vistas\\vista1.xaml",
+              "ToolTip": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\Vistas\\vista1.xaml",
+              "RelativeToolTip": "ablmvvm\\Vistas\\vista1.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T13:58:55.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ablmvvm\\App.xaml.cs",
+              "ToolTip": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\App.xaml.cs",
+              "RelativeToolTip": "ablmvvm\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:25:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vista1.xaml.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\Vistas\\vista1.xaml.cs",
+              "RelativeDocumentMoniker": "ablmvvm\\Vistas\\vista1.xaml.cs",
+              "ToolTip": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\Vistas\\vista1.xaml.cs",
+              "RelativeToolTip": "ablmvvm\\Vistas\\vista1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:15:15.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VMpatron.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\VistaModelo\\VMpatron.cs",
+              "RelativeDocumentMoniker": "ablmvvm\\VistaModelo\\VMpatron.cs",
+              "ToolTip": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\VistaModelo\\VMpatron.cs",
+              "RelativeToolTip": "ablmvvm\\VistaModelo\\VMpatron.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:09:08.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\VistaModelo\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ablmvvm\\VistaModelo\\BaseViewModel.cs",
+              "ToolTip": "C:\\VISUAL 22\\ablmvvm\\ablmvvm\\VistaModelo\\BaseViewModel.cs",
+              "RelativeToolTip": "ablmvvm\\VistaModelo\\BaseViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:06:25.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

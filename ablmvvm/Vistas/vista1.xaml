@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ablmvvm.Vistas.vista1">
+    
+    <StackLayout VerticalOptions="Center">
+        <Label Text="{Binding Lblmensaje}"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontAttributes="Bold"
+               FontSize="40"
+               x:Name="lblmensaje"/>
+
+        <!-- <Button Text="Aceptar"
+                HorizontalOptions="Center"
+                TextTransform="None"
+                CornerRadius="10"
+                BackgroundColor="#174E9c"
+                TextColor="White"
+                FontAttributes="Bold"
+                FontSize="18"
+                x:Name="btnaceptar"
+                Command="{Binding Cambiarmensajecommand}"      
+                /> -->
+        <Frame HorizontalOptions="Center"
+               Padding="0"
+               HeightRequest="150"
+               WidthRequest="150"
+               CornerRadius="75">
+
+
+        <Image Source="https://assets-global.website-files.com/62b0e6308cc691625470b227/62dec0259f18b71442a15966_Apple-Logo.png"
+            HorizontalOptions="Center"
+            BackgroundColor="#174E9c"
+            Aspect="AspectFill">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding Cambiarmensajecommand}"/>
+            </Image.GestureRecognizers>
+        </Image>
+        </Frame>
+
+    </StackLayout>
+</ContentPage>

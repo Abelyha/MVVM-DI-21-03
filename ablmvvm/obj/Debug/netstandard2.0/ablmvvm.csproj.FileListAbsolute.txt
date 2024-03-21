@@ -1,0 +1,17 @@
+C:\VISUAL 22\ablmvvm\ablmvvm\bin\Debug\netstandard2.0\ablmvvm.deps.json
+C:\VISUAL 22\ablmvvm\ablmvvm\bin\Debug\netstandard2.0\ablmvvm.dll
+C:\VISUAL 22\ablmvvm\ablmvvm\bin\Debug\netstandard2.0\ref\ablmvvm.dll
+C:\VISUAL 22\ablmvvm\ablmvvm\bin\Debug\netstandard2.0\ablmvvm.pdb
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.csproj.AssemblyReference.cache
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\Pagina1.xaml.g.cs
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.AssemblyInfoInputs.cache
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.AssemblyInfo.cs
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.csproj.CoreCompileInputs.cache
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.dll
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\refint\ablmvvm.dll
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\ablmvvm.pdb
+C:\VISUAL 22\ablmvvm\ablmvvm\obj\Debug\netstandard2.0\Vistas\vista1.xaml.g.cs

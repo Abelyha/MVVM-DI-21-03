@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ablmvvm.Pagina1">
+    <StackLayout VerticalOptions="Center">
+        <Label Text="Hola codigo"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontAttributes="Bold"
+               FontSize="40"
+               x:Name="lblmensaje"/>
+        
+        <Button Text="Aceptar"
+                HorizontalOptions="Center"
+                TextTransform="None"
+                CornerRadius="10"
+                BackgroundColor="#174E9c"
+                TextColor="White"
+                FontAttributes="Bold"
+                FontSize="18"
+                x:Name="btnaceptar"
+                Clicked="btnaceptar_Clicked"        
+                />
+                
+
+    </StackLayout>
+</ContentPage>
